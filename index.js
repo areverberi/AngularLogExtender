@@ -1,2 +1,2 @@
 var logEx = require('./dist/log-ex-unobtrusive');
-modules.exports = 'log.ex.uo';
+module.exports = 'log.ex.uo';
